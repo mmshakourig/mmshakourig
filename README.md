@@ -16,7 +16,7 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 <!-- Languages & Libraries -->
 <details>
   <summary>🐍 - Languages & Libraries </summary>
-<p style="margin: 20px 0;"></p>
+<p style="margin: 15px 0;"></p>
 <p align="center" style="font-size: 14px;">
     <img src="https://img.shields.io/badge/Python-3C3C3C?style=flat&logo=python&logoColor=white&scale=10" alt="Python"/>
     <img src="https://img.shields.io/badge/Java-3C3C3C?style=flat&logo=java&logoColor=white&scale=10" alt="Java"/>
@@ -34,7 +34,7 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 <!-- Software & Frameworks -->
 <details>
 <summary>💻 - Software & Frameworks</summary>
-<p style="margin: 20px 0;"></p>
+<p style="margin: 15px 0;"></p>
 <p align="center" style="font-size: 14px;">
     <img src="https://img.shields.io/badge/Git-3C3C3C?style=flat&logo=git&logoColor=white&scale=10" alt="Git"/>
     <img src="https://img.shields.io/badge/Linux-3C3C3C?style=flat&logo=linux&logoColor=white&scale=10" alt="Linux"/>
@@ -51,7 +51,7 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 <!-- Hardware & Fabrication -->
 <details>
   <summary>🔧 - Hardware & Fabrication</summary>
-  <p style="margin: 20px 0;"></p>
+  <p style="margin: 15px 0;"></p>
 <p align="center" style="font-size: 14px;">
     <img src="https://img.shields.io/badge/Arduino-3C3C3C?style=flat&logo=arduino&logoColor=white&scale=10" alt="Arduino"/>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-3C3C3C?style=flat&logo=raspberrypi&logoColor=white&scale=10" alt="Raspberry Pi"/>
@@ -70,7 +70,7 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 <summary style="font-size: 15px;">
 🧠 D. Mowafaghian Brain Health Center </summary>
 
-<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 5px;  margin-top: 5px;"> 
+<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 2px;  margin-top: 1px;"> 
 
 Undergrad Research Assistant, [McKewon Lab](https://github.com)
 </h4>
@@ -85,7 +85,7 @@ Undergrad Research Assistant, [McKewon Lab](https://github.com)
 <details>
 <summary style="font-size: 15px;">
 🪐 Dept. of Physics & Astronomy, UBC </summary>
-<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 5px;  margin-top: 5px;"> 
+<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 2px;  margin-top: 1px;"> 
 
 Undergrad Teaching Assistant
 </h4>
@@ -97,8 +97,8 @@ Undergrad Teaching Assistant
 
 <details>
 <summary style="font-size: 15px;">
-🧪 Center for Blood Research </summary>
-<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 5px;  margin-top: 5px;"> 
+🧪 Center for Blood Research, UBC </summary>
+<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 2px;  margin-top: 1px;"> 
 
 Tissue Engineering Intern, [BioMEMS Lab](https://mendthegap.ubc.ca/)
 </h4>
@@ -115,13 +115,13 @@ Tissue Engineering Intern, [BioMEMS Lab](https://mendthegap.ubc.ca/)
 <details>
 <summary style="font-size: 15px;">
 ⚙️ UBC Geering Up </summary>
-<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 5px;  margin-top: 5px;"> 
+<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 2px;  margin-top: 1px;"> 
 
 Curriculum Developer & Instructor
 </h4>
 
 - Taught object-oriented programming in Python to high-school students and delivered hands-on STEM activities for K–12 summer camps.
-- Designed week-long curricula and interactive challenges covering electromagnetism, aerodynamics, Arduino programming, and biotechnology to engage aspiring STEM students.
+- Designed week-long curricula and interactive challenges for high-school students covering electromagnetism, aerodynamics, Arduino programming, and biotechnology to engage aspiring STEM students.
 </details>
 
 <p style="margin: 8px 0;"></p>
@@ -129,7 +129,7 @@ Curriculum Developer & Instructor
 <details>
 <summary style="font-size: 15px;">
 ♋ BC Cancer Research Institute </summary>
-<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 5px;  margin-top: 5px;"> 
+<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 2px;  margin-top: 1px;"> 
 
 Student Research Assistant, [Qurit Lab](https://www.bccrc.ca/dept/io-programs/qurit/)
 </h4>
