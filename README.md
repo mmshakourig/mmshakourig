@@ -3,15 +3,7 @@
 <h1 align="center">👋 Hi, I'm Mahdi Shakouri</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600
-    &lines=
-    > Engineering Physics Student;
-    > Avid Learner;
-    > Student Researcher;
-    > Aspiring Educator;
-    > Student Athlete
-    &color=12beb3ff" 
-    alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=>+Engineering+Physics+Student;>+Avid+Learner;>+Student+Researcher;>+Aspiring+Educator;>+Student+Athlete&color=12beb3ff"alt="Typing SVG" />
 </p>
 
 ## 🧭 About Me
