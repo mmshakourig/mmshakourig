@@ -1,23 +1,25 @@
 <!-- Profile README -->
 
-<h1 align="center">👋 Hi, I'm Mahdi Shakouri</h1>
+<h1 align="center">👋 Mahdi Shakouri</h1>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=>+Engineering+Physics+Student;>+Avid+Learner;>+Student+Researcher;>+Aspiring+Educator;>+Student+Athlete&color=12beb3ff"alt="Typing SVG" />
+<p align="center" style="margin-bottom: 0px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=>+Engineering+Physics+Student;>+Avid+Learner;>+Student+Researcher;>+Aspiring+Educator;>+Coach&color=12beb3ff"alt="Typing SVG" />
 </p>
 
-## 🧭 About Me
+<h2 align="left" style="font-size: 18px; font-weight: bold; margin-bottom: 5px;  margin-top: 0px;"> 🧭 About Me
+</h2>
 
-I'm an **[Engineering Physics](https://www.engphys.ubc.ca/)** student at UBC pursuing the intersections of engineering, computer science, and medicine to solve meaningful problems. 
+I'm an **[Engineering Physics](https://www.engphys.ubc.ca/)** student at UBC pursuing the intersections of engineering, computer science, and physics to solve meaningful problems. 
 I'm passionate about **sim2real robotics**, **medical devices**, and **computer vision** projects.
 
-### 💡 Skills Summary
+<h3 style="font-size: 16px; margin-top: 12px; margin-bottom: 8px;"> 💡 Skills Summary
+</h3>
 
 <!-- Languages & Libraries -->
 <details>
   <summary>🐍 - Languages & Libraries </summary>
-<p style="margin: 15px 0;"></p>
-<p align="center" style="font-size: 14px;">
+<p style="margin: 10px 0;"></p>
+<p align="center" style="font-size: 14px; margin-bottom:8px;">
     <img src="https://img.shields.io/badge/Python-3C3C3C?style=flat&logo=python&logoColor=white&scale=10" alt="Python"/>
     <img src="https://img.shields.io/badge/Java-3C3C3C?style=flat&logo=java&logoColor=white&scale=10" alt="Java"/>
     <img src="https://img.shields.io/badge/C++-3C3C3C?style=flat&logo=c%2B%2B&logoColor=white&scale=10" alt="C++"/>
@@ -34,8 +36,8 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 <!-- Software & Frameworks -->
 <details>
 <summary>💻 - Software & Frameworks</summary>
-<p style="margin: 15px 0;"></p>
-<p align="center" style="font-size: 14px;">
+<p style="margin: 10px 0;"></p>
+<p align="center" style="font-size: 14px; margin-bottom: 8px;">
     <img src="https://img.shields.io/badge/Git-3C3C3C?style=flat&logo=git&logoColor=white&scale=10" alt="Git"/>
     <img src="https://img.shields.io/badge/Linux-3C3C3C?style=flat&logo=linux&logoColor=white&scale=10" alt="Linux"/>
     <img src="https://img.shields.io/badge/ROS-3C3C3C?style=flat&logo=ros&logoColor=white&scale=10" alt="ROS"/>
@@ -51,8 +53,8 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 <!-- Hardware & Fabrication -->
 <details>
   <summary>🔧 - Hardware & Fabrication</summary>
-  <p style="margin: 15px 0;"></p>
-<p align="center" style="font-size: 14px;">
+<p style="margin: 10px 0;"></p>
+<p align="center" style="font-size: 14px; margin-bottom: 8px;">
     <img src="https://img.shields.io/badge/Arduino-3C3C3C?style=flat&logo=arduino&logoColor=white&scale=10" alt="Arduino"/>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-3C3C3C?style=flat&logo=raspberrypi&logoColor=white&scale=10" alt="Raspberry Pi"/>
     <img src="https://img.shields.io/badge/PCB%20Design-3C3C3C?style=flat&logo=pcbway&logoColor=white&scale=10" alt="PCB Design"/>
@@ -62,9 +64,34 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 </p>  
 </details>
 
+<details>
+<summary style="font-size: 14px;">
+🎓 - Core Courses </summary>
+<p align="center" style="margin: 5px 0;">
+Software Construction | Applied Linear Algebra | Signals & Systems | Vector Calculus | Complex Analysis | Control Systems | Electromagnetism | Probability | PDEs | Deep Learning | Quantum Mechanics | Stochastic Processes
+</p>
+</details>
 
 
-## 🗒️ My Experiences
+## 🗒️ Experiences
+<details open>
+<summary style="font-size: 15px;">
+🫀 Kardium Inc </summary>
+
+<h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 0px;  margin-top: 1px;"> 
+
+Algorithms Engineering Intern, [Kardium Inc](https://kardium.com)
+</h4>
+
+- Developed a temporal segmentation tool using the SAM2 deep learning model for device localization based in 
+multi-planar fluoroscopic images for x-ray-based tracking, significantly reducing annotation time of an hour long procedure from 8 hours manually to 6 mins quasi-automatically. 
+- Improved the accuracy of Local Activation Time (LAT) maps by 8% by implementing a novel graph-based algorithm to identify and remove outliers in cardiac electrograms, enhancing the precision of cardiac mapping. Reduced false positives in LAT maps by 42%.
+- Compiled a dataset of accurate tissue contact and temperature measurements from 250+ clinical cases using short-term reliable multi-variate data supporting the development of machine learning models for real-time contact assessment. 
+- Quantified tissue contact measurement accuracy of device by analyzing 1TB of clinical data and cross-validating with known bench-top measurements using multiple regression models. 
+
+</details>
+
+<p style="margin: 8px 0;"></p>
 
 <details>
 <summary style="font-size: 15px;">
@@ -72,7 +99,7 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 
 <h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 2px;  margin-top: 1px;"> 
 
-Undergrad Research Assistant, [McKewon Lab](https://github.com)
+Undergrad Research Assistant, [McKewon Lab](https://github.com/McKeownLab)
 </h4>
 
 - Developed a vision-based assessment pipeline for Parkinson’s disease using computer-vision methods to extract clinically relevant features from video.
@@ -140,27 +167,59 @@ Student Research Assistant, [Qurit Lab](https://www.bccrc.ca/dept/io-programs/qu
 </details>
 
 
+
 ## 🛠️ Projects  
 
-### 🌿 [Sustainability Analyzer](https://github.com/mahdi-shakouri/sustainability-analyzer)  
-Python-based tool to evaluate the life-cycle carbon footprint of construction materials.
+<details open>
+ <summary> 📚 Currently </summary>
 
-### 📊 [Urban Flow Visualizer](https://github.com/mahdi-shakouri/urban-flow)  
-Interactive dashboard visualizing traffic network dynamics with Plotly & pandas.
+<h3 style="font-size: 16px; margin-top: 12px; margin-bottom: 8px;"> 🚙 RL Autonomous Driving Agent
+</h3>
 
-### 🧠 [Concept Map Generator](https://github.com/mahdi-shakouri/concept-mapper)  
-Creates a semantic network linking sustainability criteria to material choices.
+Working on a reinforcement learning agent to autonomously drive a vehicle in a real physical environment. Interfacing a micro RC car to an external controller (RL agent/classical PID) via microcontroller. Training to deploy a basic RL agent in simulation using Gym and PyBullet based on [this](https://arxiv.org/abs/1807.00412) article.
 
----
+</details>
 
-## ⚡ Technical Skills  
-🧰
+<details>
+ <summary> 📊 Past Projects </summary>
+
+### 🖼️ [Conditional PixelCNN++](https://github.com/mmshakourig/CPEN455HW-2024W2/blob/model-vs/Final%20Report.pdf)
+Implemented a Conditional PixelCNN++ generative model in PyTorch to generate images conditioned on four class labels. Achieved a 76.64% accuracy and an Fréchet Inception Distance score of 30.80 on the CPEN455 test dataset in classification and generative tasks.
+
+
+### 🧰 [Simulated ML Detective Agent](https://github.com/EngPhys-Detective/general_controller/blob/master/ENPH%20353%20Competition%20Final%20Report.pdf)
+
+Implement a software package with machine learning and image processing to drive in a simulated ROS environment and detect clue boards using OpenCV and a trained CNN model. ([source code](https://github.com/EngPhys-Detective/general_controller))
+
+### 🤖 [ENPH Autonomous Race Robot](https://www.enph253-sharp.com/index.html)
+Collaboratively designed, prototyped, and built a fully autonomous race robot from scratch for the annual Engineering Physics Robot Summer Competition at UBC. ([source code](https://github.com/Robot-Summer/SharpRobot))
+
+### 🎓 Other Course Projects
+
+#### [Multi-Client Twitter Server](https://cpen221-ubc.notion.site/Message-Queues-Pub-Sub-with-Twitter-c5965b28ed01482aad44dbaadac19b77)
+
+- Developed a multi-client Twitter server in Java using sockets, threading, and message queues to handle concurrent client queries. Learned about multi-threading, concurrency, and network programming.
+
+
+#### [Graphs and Interplanetary Travel](https://cpen221-ubc.notion.site/Graphs-Games-and-Interplanetary-Travel-79cb9a0844634b7288226639604eb0b0)
+- Implemented the “Kamino Game” in Java and wrote a solution for the course competition
+- Implemented graph and tree data structures with associated algorithms while optimizing time and space complexity
+
+</details>
+
+
+<!-- 💬 🎨⚡🧰 📚 📊 🌿 -->
+
 ## ✨ Extracurriculars
-- ✍️ I write about **design, reflection, and the human side of engineering**  
-- 🎨 I experiment with **data art**, **LaTeX**, and **creative coding**  
-- 💬 Connect with me on [LinkedIn](https://linkedin.com/in/yourusername)  
+<details>
+ <summary> 🌿 Read More </summary>
 
----
+- **FIZZ Council** — Sports Rep (2023-25)
+- **Volleyball Canada** — Certified Referee (2020-Present)
+- **AMS Clubs** — Club VP Events (2023-24)
+- **Assistant Coach** — Thunderbirds Volleyball Club (2022-23)
+</details>
+
 <!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmshakourig&show_icons=true&theme=tokyonight" alt="GitHub stats" />
