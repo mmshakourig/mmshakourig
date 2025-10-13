@@ -102,9 +102,10 @@ multi-planar fluoroscopic images for x-ray-based tracking, significantly reducin
 Undergrad Research Assistant, [McKewon Lab](https://github.com/McKeownLab)
 </h4>
 
+<!-- https://docs.google.com/document/d/1yoJGjo3IVZirOGtYTJ-MaAU_a-VM4gDSABYx6QIepVA/edit?tab=t.0#heading=h.6a0763escck9 -->
 - Developed a vision-based assessment pipeline for Parkinson’s disease using computer-vision methods to extract clinically relevant features from video.
-- Built automation tools for videography quality assessment and camera-feed feature adjustments to improve remote-assessment reliability.
-- Conducted literature reviews and contributed to a manuscript on video quality and remote Parkinson’s assessment.
+- Built automation tools for videography manipulations and quality assessment for camera-feed feature adjustments to improve remote-assessment reliability.
+- Conducted literature reviews and contributed to a manuscript on video quality and remote Parkinson’s assessment to be published. **Draft available upon request**.
 </details>
 
 <p style="margin: 8px 0;"></p>
