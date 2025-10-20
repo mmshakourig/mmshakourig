@@ -64,11 +64,11 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 </p>  
 </details>
 
-<details>
+<details open>
 <summary style="font-size: 14px;">
 🎓 - Core Courses </summary>
 <p align="center" style="margin: 5px 0;">
-Software Construction | Applied Linear Algebra | Signals & Systems | Vector Calculus | Complex Analysis | Control Systems | Electromagnetism | Probability | PDEs | Deep Learning | Quantum Mechanics | Stochastic Processes
+Stochastic Processes | Computational Physics | Complex Analysis | Deep Learning | Software Construction | Applied Linear Algebra | Signals & Systems | Vector Calculus | Control Systems | Electromagnetism | Probability | PDEs | Quantum Mechanics 
 </p>
 </details>
 
