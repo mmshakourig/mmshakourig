@@ -83,7 +83,7 @@ Stochastic Processes | Computational Physics | Complex Analysis | Deep Learning 
 Algorithms Engineering Intern, [Kardium Inc](https://kardium.com)
 </h4>
 
-- Worked on improving the navigational capabilities of the $Globe^{TM}$ Cathether delivering Pulse-Field ablation to cardiac tissue for atrial fibliration therapies using generated multi-planar electric fields.
+- Worked on improving the navigational capabilities of the $Globe^{TM}$ Cathether delivering Pulse-Field ablation to cardiac tissue for atrial fibrillation therapies using generated multi-planar electric fields.
 - Developed a temporal segmentation tool using the SAM2 deep learning model for device localization based in 
 multi-planar fluoroscopic images for x-ray-based tracking, significantly reducing annotation time of an hour long procedure from 8 hours manually to 6 mins quasi-automatically. 
 - Improved the accuracy of Local Activation Time (LAT) maps by 8% by implementing a novel graph-based algorithm to identify and remove outliers in cardiac electrograms, enhancing the precision of cardiac mapping. Reduced false positives in LAT maps by 42%.
