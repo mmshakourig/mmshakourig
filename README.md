@@ -67,7 +67,7 @@ I'm passionate about **sim2real robotics**, **medical devices**, and **computer 
 <details open>
 <summary style="font-size: 14px;">
 🎓 - Core Courses </summary>
-<p align="center" style="margin: 5px 0;">
+<p align="center" style="margin: 6px 0;">
 Stochastic Processes | Computational Physics | Complex Analysis | Deep Learning | Software Construction | Applied Linear Algebra | Signals & Systems | Vector Calculus | Control Systems | Electromagnetism | Probability | PDEs | Quantum Mechanics 
 </p>
 </details>
@@ -83,12 +83,12 @@ Stochastic Processes | Computational Physics | Complex Analysis | Deep Learning 
 Algorithms Engineering Intern, [Kardium Inc](https://kardium.com)
 </h4>
 
-- Worked on improving the navigational capabilities of the $Globe^{TM}$ Cathether delivering Pulse-Field ablation to cardiac tissue for atrial fibrillation therapies using generated multi-planar electric fields.
-- Developed a temporal segmentation tool using the SAM2 deep learning model for device localization based in 
-multi-planar fluoroscopic images for x-ray-based tracking, significantly reducing annotation time of an hour long procedure from 8 hours manually to 6 mins quasi-automatically. 
+- Worked on improving the navigational capabilities of the $Globe^{TM}$ Catheter, delivering Pulse-Field ablation to cardiac tissue for atrial fibrillation therapies using generated multi-planar electric fields.
+- Developed a temporal segmentation tool using the SAM2 deep learning model for device localization based on 
+multi-planar fluoroscopic images for x-ray-based tracking, significantly reducingthe  annotation time of an hour-long procedure from 8 hours manually to 6 mins quasi-automatically. 
 - Improved the accuracy of Local Activation Time (LAT) maps by 8% by implementing a novel graph-based algorithm to identify and remove outliers in cardiac electrograms, enhancing the precision of cardiac mapping. Reduced false positives in LAT maps by 42%.
-- Compiled a dataset of accurate tissue contact and temperature measurements from 250+ clinical cases using short-term reliable multi-variate data supporting the development of machine learning models for real-time contact assessment. 
-- Quantified tissue contact measurement accuracy of device by analyzing 1TB of clinical data and cross-validating with known bench-top measurements using multiple regression models. 
+- Compiled a dataset of accurate tissue contact and temperature measurements from 250+ clinical cases using short-term, reliable multi-variate data supporting the development of machine learning models for real-time contact assessment. 
+- Quantified tissue contact measurement accuracy of the device by analyzing 1TB of clinical data and cross-validating with known bench-top measurements using multiple regression models. 
 
 </details>
 
@@ -133,7 +133,7 @@ Tissue Engineering Intern, [BioMEMS Lab](https://mendthegap.ubc.ca/)
 </h4>
 
 - Implemented image-analysis software (MATLAB, Python) using blob detection, modified Laplacian filters, SIFT, and directional analysis to quantify ganglion morphology, outgrowth, and alignment.
-- Designed and prototyped multiple 3D-printed microfluidic chip iterations modeling intervertebral discs; performed plasma bonding and protocol analyses to validate chip efficacy.
+- Designed and prototyped multiple 3D-printed microfluidic chip iterations modelling intervertebral discs; performed plasma bonding and protocol analyses to validate chip efficacy.
 - Performed ICC staining and imaged cultured samples using confocal and fluorescence microscopy for experimental validation.
 
 </details>
@@ -173,17 +173,17 @@ Student Research Assistant, [Qurit Lab](https://www.bccrc.ca/dept/io-programs/qu
 ## 🛠️ Projects  
 
 <details open>
- <summary> 📚 Currently </summary>
+ <summary> 📚 *Currently* </summary>
 
 <h3 style="font-size: 16px; margin-top: 12px; margin-bottom: 8px;"> 🚙 RL Autonomous Driving Agent
 </h3>
 
-Working on a reinforcement learning agent to autonomously drive a vehicle in a real physical environment. Interfacing a micro RC car to an external controller (RL agent/classical PID) via microcontroller. Training to deploy a basic RL agent in simulation using Gym and PyBullet based on [this](https://arxiv.org/abs/1807.00412) article.
+Working on a reinforcement learning agent to autonomously drive a vehicle in a real physical environment. Interfacing a micro RC car to an external controller (RL agent/classical PID) via a microcontroller. Training to deploy a basic RL agent in simulation using Gym and PyBullet based on [this](https://arxiv.org/abs/1807.00412) article.
 
 </details>
 
-<details>
- <summary> 📊 Past Projects </summary>
+<details open>
+ <summary> 📊 *Past Projects* </summary>
 
 ### 🖼️ [Conditional PixelCNN++](https://github.com/mmshakourig/CPEN455HW-2024W2/blob/model-vs/Final%20Report.pdf)
 Implemented a Conditional PixelCNN++ generative model in PyTorch to generate images conditioned on four class labels. Achieved a 76.64% accuracy and an Fréchet Inception Distance score of 30.80 on the CPEN455 test dataset in classification and generative tasks.
