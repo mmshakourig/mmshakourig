@@ -160,11 +160,11 @@ Curriculum Developer & Instructor
 ♋ BC Cancer Research Institute </summary>
 <h4 align="left" style="font-size: 14px; font-weight: bold;margin-left: 20px; margin-bottom: 2px;  margin-top: 1px;"> 
 
-Student Research Assistant, [Qurit Lab](https://www.bccrc.ca/dept/io-programs/qurit/)
+Summer Student Volunteer, [Qurit Lab](https://www.bccrc.ca/dept/io-programs/qurit/)
 </h4>
 
 - Curated a PET/CT image dataset from The Cancer Imaging Archive and created a searchable Excel database to support AI-aided prognostics research.
-- Visualized DICOM images using Python and Octave for quality control and facilitated dataset access for research teams.
+- Visualized DICOM images using Python and Octave for quality control and facilitated dataset query and access for research teams.
   
 </details>
 
@@ -186,7 +186,7 @@ Working on a reinforcement learning agent to autonomously drive a vehicle in a r
  <summary> 📊 *Past Projects* </summary>
 
 ### 🖼️ [Conditional PixelCNN++](https://github.com/mmshakourig/CPEN455HW-2024W2/blob/model-vs/Final%20Report.pdf)
-Implemented a Conditional PixelCNN++ generative model in PyTorch to generate images conditioned on four class labels. Achieved a 76.64% accuracy and an Fréchet Inception Distance score of 30.80 on the CPEN455 test dataset in classification and generative tasks.
+Implemented a Conditional PixelCNN++ generative model in PyTorch to generate images conditioned on four class labels. Achieved a 76.64% accuracy and a Fréchet Inception Distance score of 30.80 on the CPEN455 test dataset in classification and generative tasks.
 
 
 ### 🧰 [Simulated ML Detective Agent](https://github.com/EngPhys-Detective/general_controller/blob/master/ENPH%20353%20Competition%20Final%20Report.pdf)
@@ -217,8 +217,8 @@ Collaboratively designed, prototyped, and built a fully autonomous race robot fr
  <summary> 🌿 Read More </summary>
 
 - **FIZZ Council** — Sports Rep (2023-25)
-- **Volleyball Canada** — Certified Referee (2020-Present)
-- **AMS Clubs** — Club VP Events (2023-24)
+- **Volleyball Canada** — L1 Certified Referee (2020-Present)
+- **AMS Clubs** — Club VP Events (2023-24) and President (2024-25)
 - **Assistant Coach** — Thunderbirds Volleyball Club (2022-23)
 </details>
 
