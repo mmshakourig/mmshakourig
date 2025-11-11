@@ -85,7 +85,7 @@ Algorithms Engineering Intern, [Kardium Inc](https://kardium.com)
 
 - Worked on improving the navigational capabilities of the $Globe^{TM}$ Catheter, delivering Pulse-Field ablation to cardiac tissue for atrial fibrillation therapies using generated multi-planar electric fields.
 - Developed a temporal segmentation tool using the SAM2 deep learning model for device localization based on 
-multi-planar fluoroscopic images for x-ray-based tracking, significantly reducingthe  annotation time of an hour-long procedure from 8 hours manually to 6 mins quasi-automatically. 
+multi-planar fluoroscopic images, significantly reducing the annotation time of an hour-long procedure from 8 hours manually to 6 mins quasi-automatically.
 - Improved the accuracy of Local Activation Time (LAT) maps by 8% by implementing a novel graph-based algorithm to identify and remove outliers in cardiac electrograms, enhancing the precision of cardiac mapping. Reduced false positives in LAT maps by 42%.
 - Compiled a dataset of accurate tissue contact and temperature measurements from 250+ clinical cases using short-term, reliable multi-variate data supporting the development of machine learning models for real-time contact assessment. 
 - Quantified tissue contact measurement accuracy of the device by analyzing 1TB of clinical data and cross-validating with known bench-top measurements using multiple regression models. 
@@ -104,9 +104,9 @@ Undergrad Research Assistant, [McKewon Lab](https://github.com/McKeownLab)
 </h4>
 
 <!-- https://docs.google.com/document/d/1yoJGjo3IVZirOGtYTJ-MaAU_a-VM4gDSABYx6QIepVA/edit?tab=t.0#heading=h.6a0763escck9 -->
-- Developed a vision-based assessment pipeline for Parkinson’s disease using computer-vision methods to extract clinically relevant features from video.
-- Built automation tools for videography manipulations and quality assessment for camera-feed feature adjustments to improve remote-assessment reliability.
-- Conducted literature reviews and contributed to a manuscript on video quality and remote Parkinson’s assessment to be published. **Draft available upon request**.
+- Augmented data for testing a vision-based assessment pipeline for Parkinson’s disease using computer-vision methods to extract clinically relevant features from video.
+- Built automation tools for videography manipulations and quality assessment for camera-feed feature adjustments to improve Parkinson’s remote-assessment reliability.
+- Conducted literature review and contributed to a manuscript on video quality and remote Parkinson’s assessment to be published. **Draft available upon request**.
 </details>
 
 <p style="margin: 8px 0;"></p>
